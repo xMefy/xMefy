@@ -14,7 +14,7 @@ My name is Adam but you can call me Mefyy. I love writing server- and networking
 
 ## 📝 My most interesting projects
 
-* [**Mefy's APIs**](https://mefysapi.tk) — a website to get APIs that you need, and obviously, to pay at the end of the month based on how much requests you made.
+* [**Mefy's APIs**](https://mefysapi.tk) — a website to get APIs for your needs, and obviously, to pay at the end of the month based on how much requests you've made.
 * [**The Inazuma Pit**](https://discord.gg/9qnwUqkm9Y) — a full remake of the Hypixel minigame, The Pit.
 
 ## 📱 Contact me
