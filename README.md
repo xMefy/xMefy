@@ -1,6 +1,6 @@
 ## 👋 Hi
 
-My name is Adam but ypu can call me Mefyy. I love writing server- and networking-bound software. 
+My name is Adam but you can call me Mefyy. I love writing server- and networking-bound software. 
 
 😞 I *hate* working on anything related to graphics. So don't ask me if I can draw something
 
