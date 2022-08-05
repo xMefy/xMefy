@@ -22,4 +22,4 @@ My name is Adam but you can call me Mefyy. I love writing server- and networking
 Those are the methods to contact me if you need
 
 * [**Email**](mailto:mefyyy.official@gmail.com)
-* [**Discord server**](https://discord.gg/9qnwUqkm9Y)
+* [**Discord**](https://discord.com/users/881513209587175484)
