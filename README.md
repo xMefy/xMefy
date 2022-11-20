@@ -6,7 +6,7 @@ My name is Adam but you can call me Mefyy. I love writing code and making APIs.
 
 ❤️ I *love* creating the magic behind these graphics, that is, the backends and what bridges them and consumers of the data they provide.
 
-ℹ️ I mainly **write** `Java` and `JavaScript`. I also have some minor experience writing `HTML`, `CSS`, `Python`, and a few other languages.
+ℹ️ I mainly **write** `Java` and `JavaScript`. I also have some minor experience writing `HTML`, `CSS`, and a few other languages.
 
 💬 I **speak** `Italian` (native), `English` (upper-intermediate), `French` (native), `Spanish` (basic). Capable of comprehending very-very basic `Arab`.
 
