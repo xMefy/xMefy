@@ -10,16 +10,14 @@ My name is Adam but you can call me Mefyy. I love writing code and making APIs.
 
 💬 I **speak** `Italian` (native), `English` (upper-intermediate), `French` (native), `Spanish` (basic). Capable of comprehending very-very basic `Arab`.
 
+## 🛠️ My Skills
 
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,python,html,css&theme=dark)](https://skillicons.dev)
 
 ## 📝 My most interesting projects
 
 * [**Mefy's APIs**](https://mefysapi.tk) — a website to get APIs for your needs, and obviously, to pay at the end of the month based on how much requests you've made.
 * [**Discord Stats**](https://github.com/xMefy/Discord-Stats) — let you see and read with better design all your Discord Stats bu uploading your package/JSON file.
-
-## 🛠️ My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,python,html,css&theme=dark)](https://skillicons.dev)
 
 ## 📱 Contact me
 
