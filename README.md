@@ -25,5 +25,5 @@ My name is Adam but you can call me Mefyy. I love writing code and making APIs.
 
 ## 📱 Contact me
 
-* [**Email**](mailto:mefyyy.official@gmail.com)
+* [**E-Mail**](mailto:mefyyy.official@gmail.com)
 * [**Discord**](https://discord.com/users/881513209587175484)
