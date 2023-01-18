@@ -12,7 +12,11 @@ My name is Adam but you can call me Mefyy. I love writing code and making APIs.
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,python,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark)](https://skillicons.dev)
+
+## 👷 Dependencies I worked with
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,nodejs&theme=dark)](https://skillicons.dev)
 
 ## 📝 My most interesting projects
 
